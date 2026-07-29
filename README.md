@@ -1,6 +1,10 @@
 # Anime.js Counter Animation
 
 
+> [!NOTE]
+>*This project was originally created Apr. 28th, 2024 and was recently updated.*
+
+
 This is a small proof-of-concept built using:
 
 - [SvelteKit (Svelte 5)](https://github.com/sveltejs/kit) (Front-end UI)
@@ -26,4 +30,4 @@ Animates the main numerical value of the counter, as well as displaying a floati
 
 Code is MIT licensed
 
-Copyright © 2026 [grawlich](https://github.com/grawlich)
+Copyright © 2024 - 2026 [grawlich](https://github.com/grawlich)
