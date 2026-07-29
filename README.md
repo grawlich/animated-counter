@@ -2,7 +2,7 @@
 
 
 > [!NOTE]
->*This project was originally created Apr. 28th, 2024 and was recently updated.*
+> *This project was originally created Apr. 28th, 2024 and was recently updated.*
 
 
 This is a small proof-of-concept built using:
