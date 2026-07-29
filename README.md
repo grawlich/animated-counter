@@ -10,7 +10,7 @@ This is a small proof-of-concept built using:
 > [!WARNING]
 > Due to this merely being a proof-of-concept, no support is provided at this time. Updates will come as I deem necessary, but for the foreseeable future, this is how the component will remain.
 
-Demo (coming soon)
+[Demo](https://animated-counter-sable.vercel.app/)
 
 
 Purpose:
