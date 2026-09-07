@@ -29,5 +29,3 @@ Animates the main numerical value of the counter, as well as displaying a floati
 
 
 Code is MIT licensed
-
-Copyright © 2024 - 2026 [grawlich](https://github.com/grawlich)
